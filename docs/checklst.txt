@@ -1,0 +1,204 @@
+================================================================
+Beta-Testing Checklist       Copyright 1994 Epic MegaGames       
+CONFIDENTIAL
+================================================================
+ 
+This is a standard set of points for Epic beta-testers to look into when
+testing a new game.  It covers everything from compatibility to gameplay and
+marketing.  Please go through the list and answer everything that applies to
+you (with your hardware and software).
+ 
+Then, post your response in the Epic beta-test forum.  If the large amount
+of questions is intimidating,  you can answer and post one section at a
+time.  Thanks.
+ 
+Compatibility points
+--------------------
+1. Memory managers & TSR's:
+   A. Does the game work properly (no lockups, sound/music problems) with
+      your memory managers?
+       - EMM386
+       - 386MAX
+       - QEMM
+       - Other memory managers (list them)
+   B. List any special steps you needed to take to get the game working
+      with your memory managers.
+   C. Disk compression programs (Stacker, SuperStor, DoubleSpace, etc).
+      Does the game work properly on a compressed drive?  List any special
+      steps you had to take to get the game working with your disk
+      compression software.
+   D. Do you use any Anti-virus checkers?  If so,  did the game clash with
+      them?
+ 
+2. Other operating systems:
+   A. OS/2
+      - Does the game run under OS/2 without any special settings?
+      - If you were able to get the game running under OS/2 by using special
+        OS/2 settings,  please list them.
+      - Also note whether the game works under OS/2 with your sound card,
+        and what steps you took to make it work.
+   B. Windows
+      - Does the game run under Windows properly with music/sound disabled?
+      - Does the game run under Windows properly with music/sound on?
+      - Is the game's performance OK under Windows?  Does it work as well
+        under Windows as under DOS?
+      - If you've found any tricks for getting the games working under
+        Windows better,  please share them!  (For example, PIF settings,
+        icons, configuration tips).
+   C. DR. DOS:  Does it work properly?  List any special things you had to
+      do to get the game running in DR. DOS.
+   D. 4DOS:  Does it work properly?
+   E. Novell Netware:  Does the game work properly on a LAN with the Netware
+      shell files loaded?  Any problems?
+   F. Lantastic:  Does the game work on a Lantastic network?
+   G. Other operating environments:  If you use other DOS-compatible
+      operating systems,  tell us about your experience running the game!
+ 
+3. Sound Cards
+   A. Sound Blaster card.  Does it work properly with your Sound Blaster?
+      What version is your Sound Blaster (1.0, 1.5, or 2.0)?
+   B. Sound Blaster Pro.  Does it work properly?  Is the sound in
+      stereo?
+   C. Sound Blaster 16 family cards.  Does the game work properly with
+      no noise or distortion?  Does it work WITH the SB-16 driver?
+      Does it work WITHOUT the SB-16 driver?
+   D. PAS and PAS-16.  Does it work?  What special settings did you need to
+      use to get the game working?  What version are your PAS-16 drivers?
+   E. SET BLASTER environment variable.  Did the game recognize your SET
+      BLASTER command?
+   F. Gravis Ultrasound.  If the game has native GUS support,  did it work
+      properly?  If the game only supports the Sound Blaster,  could you
+      get music and sound using the SBOS drivers?  What problems did you
+      encounter,  and how did you solve them?
+   G. If you have any other sound cards and you've found any special tips
+      for getting the game running with them,  please share the information
+      with us!  Also list any compatibility problems you had with
+      Sound Blaster clones.
+   H. Did the game work properly with your normal IRQ, DMA, and port
+      settings?
+   I. Was the audio quality of the sound and music OK?
+ 
+4. Video cards.  Did this game work properly with your video cards? 
+Describe
+   any video problems you ran into (blank, distorted, noisy, or garbled
+   picture, jerky graphics or scrolling) and tell us the brand, model,
+   and chip set of your video card.
+ 
+Gameplay points
+---------------
+   A. Fun.  Did you really enjoy this game?  If you were stranded on a
+desert
+      island with only this game and a beautiful lady (or a cute guy if
+      you're female),  would you play the game?
+   B. Frustration.  Did you find anything in the game particularly
+      annoying?  What could we eliminate to make the game more fun?
+   C. Did you eventually get bored with the game?  Where could we add
+      variety to make it more interesting?
+   D. Did the game, your goal, and the controls make sense to you?  What
+      specific things did you have trouble figuring out?
+   E. Novice Testing.  Go grab somebody who is a computer novice.  We'll
+      use them as a test case in this experiment.  Sit them down in front
+      of the game and see how they respond:
+      - Did they understand how to play right away?
+      - Did they enjoy playing?
+      - What could we do to make the game more playable and enjoyable for
+        this novice?
+   F. Kid testing.  If you have access to a kid,  get him to play the game
+      and have him answer the above three questions.
+   G. Does the game's story or underlying scenario make sense?  Do you know
+      who you are and what your purpose is?
+ 
+ 
+User Friendliness
+-----------------
+   A. Did the user interface make sense to you?
+   B. What can we do to make the game's user interface (menu, controls,
+      options) easier and more intuitive?
+   C. Do you think this game would make sense to a total novice?  What
+      problems do you think beginners will experience when trying to
+      run the game?
+   D. Are this game's memory requirements sensible?  Will people have
+      trouble freeing up enough memory to run the game?
+   E. Were the game's menus simple and logical?  Were you ever confused
+      by the menus?  Any ideas for improving them?
+   F. Did you ever feel lost or confused while playing the game?
+ 
+Artistic Integrity
+------------------
+   A. Graphics
+      - Did you like the game's artwork?
+      - Did you like the game's animation?
+      - Did the game appear too bright or too dark on your monitor?
+      - Were the graphics too colorful and distracting?
+      - Were the graphics too bland and boring?
+      - Was the style of all the artwork consistent?  Did anything look
+        like it clashed with the other art in the game?
+   B. Sound Effects
+      - Did you like the cool sound effects?
+      - Was the sound quality OK?  Were the effects too noisy?
+      - Were the sound effects appropriate?  Did they go along well with
+        the action happening in the game?
+   C. Music
+      - How do you feel about the game's music?
+      - Was the sound quality of the musical instruments OK?  Or,  did
+        you notice that certain instruments were too noisy?
+   D. Audio Balance
+      - When you used the game's default music/sound volume settings,
+        was the balance between music and sound effects good?  Or were
+        the sound effects too loud or quiet?
+      - When you first start this game,  is it significantly louder or
+        quieter than other games?  In other words,  did we goof up
+        on the game's volume settings?
+   E. Pretend the game is a movie, and rate its content
+(sex/violence/language)
+      as G, PG, PG-13, R, or X.  Was the content of the game consistent, or
+      did you feel that some aspects of the game (sex/violence/language)
+were
+      out-of-place?
+ 
+Text
+----
+ 
+By "text", we mean all written words in the game, including menu text, story
+text, ordering information, etc.
+ 
+1. Did you enjoy all the written text in the game?
+2. Was it short, concise, and to-the-point?
+3. Did you find any spelling or gramatical mistakes?  List 'em.
+4. What parts of the text should be rewritten?
+5. Font & typography checklist:
+   - Were the fonts used in the game easy or difficult to read?
+   - Was the text too bright or too dark?  Describe any places where you
+     noticed that the text colors were weird or hard to read.
+   - Was the coloring of the text consistent?  Or were too many
+     different colors used?
+   - Wherever text appeared in windows,  were the margins too big or too
+     small?
+ 
+Marketing points
+----------------
+ 
+Be as critical as possible here and tell it like it is!  :-)
+1. What is this game's competition?
+2. How does this game compare to the competition?  Better or worse?
+3. If you downloaded the shareware version of this game,  would you
+   register it?  Be honest.
+4. What extra goodies would you like to see in the registered version
+   that would make you want to buy it?
+5. When you began playing the game,  did it excite you?  Were you
+   *impressed* with it?
+6. How long did you play the game?  Do you want to play it more?
+7. Would you recommend this game to your friends?  Why or why not?
+ 
+Recap
+-----
+ 
+Finally, pretend you're a magazine reviewer.  Pretend you've written an
+article and a review of this game.  Now,  write a one-sentence headline that
+captures the essence of the game!
+ 
+ 
+-END-
+ 
+ 
+

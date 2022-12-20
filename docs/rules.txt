@@ -1,0 +1,70 @@
+
+                 :: Epic MegaGames Rules for Beta Testers ::
+ 
+ 
+To:    All Beta Testers
+From:  Andrew Lehrfeld, [SYSOP] Beta Testers Section
+Date:  February 14, 1994
+ 
+ 
+Epic MegaGames is a leading producer of quality computer games and software,
+and as such, expects that beta testers will conduct themselves in a
+professional manner consistent with the following rules and guidelines.
+ 
+1. You have been granted access to a closed section and a closed library in
+the EPIC Forum.  Section 16 and Library 16 are for Epic Beta Testers ONLY.
+Access to these areas will be revoked if you violate the Epic Non-Disclosure
+Agreement which you signed.  If you did not sign a Non-Disclosure Agreement,
+please leave a message to SYSOP immediately.
+ 
+2. As a member of the Epic beta test team, you are expected to participate
+actively in this Section.  During periods when there is only one game in
+testing, you may find that visiting this Section two or three times a week
+is sufficient, however during busier periods, you may want to visit once a
+day.  You should become familiar with off-line readers, such as TAPCIS,
+which allow you to download all of the messages in this section, then read
+and respond to them while off-line.  This will allow you to read and reply
+to messages without CompuServe connect charges.
+ 
+3. When a new file is posted in Library 16 for testing, I will announce it
+in the message section.  Download every game and play-test it thoroughly.
+(If you don't know how to unzip a compressed file, read HOW2UNZP.TXT in
+Library 16.)  Post your messages, containing bug reports and your comments
+and suggestions, to ALL so that everyone in the Section can read and benefit
+from them.  (When we have multiple games in testing at the same time, I may
+ask you to post your messages to the game's programmer, instead.)
+ 
+4. You are encouraged to contribute your thoughts to every message you see
+here, including bugs reported by others on the team.  This Section is our
+"home base" for corresponding and communicating with one another.  You are
+expected to contribute freely.  This is the place -- AND THE ONLY PLACE --
+to discuss your beta testing activities for Epic.  BE CAREFUL to post your
+messages only in the closed section, Section 16.
+ 
+5. Please do not show the games you are testing to persons who are not on
+the beta test team.  I know it can be exciting to share a new game with a
+friend, but we want to minimize the possibility that information about our
+games in progress will spread to other software development companies.  Epic
+will make available screen shots of upcoming games, and these can be used
+for promotion or sharing with a friend.
+ 
+6. Games posted in the Library for beta testing will be password-protected;
+that is, you will need to enter a password in order to play the game.  In
+some instances, Epic may encode your password into the game in such a way as
+to render the game useless, or identify the offender, should an Epic game be
+illegally distributed by anyone here.  DO NOT ALLOW BETA TEST GAMES TO FALL
+INTO ANYONE ELSE'S HANDS.  If an Epic beta test file is found to have been
+uploaded onto a BBS, or otherwise distributed, the offender whose password
+was used to unlock the game will have his/her rights here revoked.  Epic
+MegaGames may also choose to pursue other action.
+ 
+7. Beta test team members who actively participate here will receive a free,
+registered copy of the game once it is completed.
+ 
+ 
+ 
+(This file will be modified/added to as needed.)
+ 
+ 
+ 
+
